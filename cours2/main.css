@@ -1,0 +1,44 @@
+/* style.css */
+body{
+  background: rgb(255, 239, 213);
+  color: black;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+#container1 {
+  width: 80%;
+  margin:  0 auto;
+  padding: 20px;
+  background-color: rgb(255, 239, 213);
+}
+
+#container2 {
+  width: 60%;
+  margin:  0 auto;
+  padding: 20px;
+  background-color: rgb(255, 239, 213);
+  border: 1px solid rgb(205, 92, 92);
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: rgb(205, 92, 92);
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: rgb(56, 52, 66);
+  font-weight: normal;
+  font-size: 25px;
+}
+
+a {
+  color: darkred;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
